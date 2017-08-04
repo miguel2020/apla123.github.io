@@ -164,6 +164,18 @@
 			},
 			"8": {
 				"COUNTRY": "netherlands",
+				"NAME": "Jesus Pena Garcia",
+				"PROFESSION": "CMO",
+				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Alpla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
+				"SOCIAL": [
+					{
+						"name": "linkedin",
+						"link": "https://www.linkedin.com/in/jesuspenag/"
+					}
+				]
+			},
+			"9": {
+				"COUNTRY": "netherlands",
 				"NAME": "Oleg Strelenko",
 				"PROFESSION": "Founder, CEO, Blockchain developer",
 				"TEXT": "Blockchain developer with 5 years of work experience. Developed decentralized electronic currency DCoin (80k lines of Go code) from scratch. He is known in the Russian IT community as Dmitry Kharitonov. For over 10 years, he has developed his own projects and managed IT teams.",
