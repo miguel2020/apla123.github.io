@@ -77,8 +77,9 @@
 			"HEAD": "Team",
 			"1": {
 				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_1.png",
 				"NAME": "Vitaly Bondar",
-				"PROFESSION": "General Council",
+				"PROFESSION": "Chief Legal Officer  (CLO)",
 				"TEXT": "Vitaly is a Russian qualified lawyer and Legal Director of the Luxembourg based law firm ChristmannSchmitt. He is an expert in e-commerce and private international law matters. In the past 15 years, he has been holding senior positions at large international law firms and industrial companies with a focus on cross-border M&A deals and transaction structuring.  Vitaly graduated from the law faculty of Kuban State University, Russia, in 1999, and further obtained a postgraduate diploma (L.L.M) in International Banking and Commercial Law in 2001 from Queen Mary University in London.",
 				"SOCIAL": [
 					{
@@ -89,8 +90,9 @@
 			},
 			"2": {
 				"COUNTRY": "united-states",
+				"IMG": "../images/team/team_2.png",
 				"NAME": "Andrey Nechaev",
-				"PROFESSION": "Mobile developer",
+				"PROFESSION": "Mobile APP Developer",
 				"TEXT": "More than 5 years of experience in Software development. Excellent understanding of Web stack, mostly backend (Erlang, Java and Python). Developed applications on both front-end and high-loaded back-end sides. Experience with the most popular mobile platforms, cross-compilation for all popular desktop and mobile platforms. Focused on fault-tolerant distributed services and UX.",
 				"SOCIAL": [
 					{
@@ -105,15 +107,17 @@
 			},
 			"3": {
 				"COUNTRY": "indonesia",
-				"NAME": "Lukman N.H",
-				"PROFESSION": "PR-manager",
+				"IMG": "../images/team/team_3.png",
+				"NAME": "Lukman NH",
+				"PROFESSION": "Media & Public Relations Manager",
 				"TEXT": "Blockchain Creative Publisher, Working in mineral Laboratory for government mining company, Passionated for blockchain implementation, 3 year experience in creative writing for blockchain development and promotion.",
 				"SOCIAL": []
 			},
 			"4": {
 				"COUNTRY": "ukraine",
-				"NAME": "Nosova Anna",
-				"PROFESSION": "Business Development Assistant",
+				"IMG": "../images/team/team_4.png",
+				"NAME": "Anna Nosova",
+				"PROFESSION": "Business Development Manager",
 				"TEXT": "Psychologist. 4 years of experience in the field of project promotion. 2 years of experience in the organization and management of social projects. Cooperated with international environmental and volunteer organizations: Peace Corp, Spare, Biomass Project, United Nations Development Programme. Is the author of the educational program and a number of scientific articles.",
 				"SOCIAL": [
 					{
@@ -124,8 +128,9 @@
 			},
 			"5": {
 				"COUNTRY": "ukraine",
+				"IMG": "../images/team/team_5.png",
 				"NAME": "Yuriy Lomakin",
-				"PROFESSION": "Frontend Developer",
+				"PROFESSION": "UX/UI Developer",
 				"TEXT": "Front-end developer with 10-years experience. Worked in the team charmerstudio.com, developing major news portal lenta.ru.",
 				"SOCIAL": [
 					{
@@ -140,8 +145,9 @@
 			},
 			"6": {
 				"COUNTRY": "russia",
+				"IMG": "../images/team/team_6.png",
 				"NAME": "Aleksandr Boldachev",
-				"PROFESSION": "Advisor/Analyst",
+				"PROFESSION": "Advisory Board Member",
 				"TEXT": "Philosopher, analyst, member of the Association of Russian Futurologists. Main research areas: global evolutionism, temporal ontology, philosophy of artificial intelligence, futurology. In recent years, he worked on creation of subject-event approach to complex systems modeling.",
 				"SOCIAL": [
 					{
@@ -152,8 +158,9 @@
 			},
 			"7": {
 				"COUNTRY": "russia",
+				"IMG": "../images/team/team_7.png",
 				"NAME": "Alexey Krivonogov",
-				"PROFESSION": "Core developer",
+				"PROFESSION": "Full Stack Developer",
 				"TEXT": "A professional C/C++ programmer with 24 years of experience. Graduated from Novosibirsk State University in 1992 with a degree in mathematics and applied mathematics. Developed programming language Gentee from scratch. Developed personal data store Eonza.",
 				"SOCIAL": [
 					{
@@ -164,8 +171,9 @@
 			},
 			"8": {
 				"COUNTRY": "netherlands",
-				"NAME": "Jesus Pena Garcia",
-				"PROFESSION": "CMO",
+				"IMG": "../images/team/team_8.png",
+				"NAME": "Jesus Pena",
+				"PROFESSION": "Chief Operating Officer (COO)",
 				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Alpla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
 				"SOCIAL": [
 					{
@@ -176,8 +184,9 @@
 			},
 			"9": {
 				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_10.png",
 				"NAME": "Oleg Strelenko",
-				"PROFESSION": "Founder, CEO, Blockchain developer",
+				"PROFESSION": "Founder & Chief Executive Officer (CEO)",
 				"TEXT": "Blockchain developer with 5 years of work experience. Developed decentralized electronic currency DCoin (80k lines of Go code) from scratch. He is known in the Russian IT community as Dmitry Kharitonov. For over 10 years, he has developed his own projects and managed IT teams.",
 				"SOCIAL": [
 					{
