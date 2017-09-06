@@ -502,8 +502,16 @@
 				]
 			},
 			"8": {
-				"COUNTRY": "netherlands",
+				"COUNTRY": "russia",
 				"IMG": "../images/team/team_8.png",
+				"NAME": "Игорь Чертов",
+				"PROFESSION": "UX/UI разработчик",
+				"TEXT": "Front-end разработчик с более чем 5-летним опытом применения современных средств веб-разработки. Сертифицированный разработчик Microsoft (MCSD). Работал в составе нескольких государственных образовательных учреждений, разрабатывая мобильные приложения и веб-сайты",
+				"SOCIAL": []
+			},
+			"9": {
+				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_10.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
 				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Alpla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
@@ -514,17 +522,17 @@
 					}
 				]
 			},
-			"9": {
+			"10": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_9.png",
+				"IMG": "../images/team/team_11.png",
 				"NAME": "Muhammed Arafath",
 				"PROFESSION": "Regional Franchise Manager/Africa/Asia/Middle East",
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"10": {
+			"11": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_10.png",
+				"IMG": "../images/team/team_12.png",
 				"NAME": "Олег Стреленко",
 				"PROFESSION": "Основатель и генеральный директор eGaaS, блокчейн-разработчик",
 				"TEXT": "Блокчейн-разработчик с 5-летним опытом. Предприниматель, программист. Основатель и бывший руководитель агентства кибер-безопасности DDOSExpert. Известен в русскоязычном Интернет-сообществе как Дмитрий Харитонов. В течение 10 лет разрабатывает собственные проекты и руководит IT-командами.",

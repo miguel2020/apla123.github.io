@@ -309,28 +309,28 @@
 			"1": {
 				"1": "October",
 				"2": "Blockchain",
-				"3": "Easy software client",
-				"4": "Virtual machines of programming languages (Simvolio and Protypo)",
-				"5": "A software client with an integrated development environment (Molis)"
+				"3": "Light software client",
+				"4": "Virtual machines for programming languages (Simvolio and Protypo)",
+				"5": "Programming client with an integrated development environment (Molis)"
 			},
 			"2": {
 				"1": "December",
 				"2": "",
 				"3": "Language resources",
-				"4": "Export / import applications",
+				"4": "Export/import of applications",
 				"5": ""
 			},
 			"3": {
 				"1": "January",
 				"2": "Basic applications for ecosystems",
-				"3": "Resource payment system",
+				"3": "System for payment for resources",
 				"4": "",
 				"5": ""
 			},
 			"4": {
 				"1": "February",
 				"2": "",
-				"3": "Contracts signed",
+				"3": "Contracts with signatures",
 				"4": "",
 				"5": ""
 			},
@@ -357,50 +357,50 @@
 			},
 			"8": {
 				"1": "September",
-				"2": "Interface Designer",
-				"3": "Starting the Network",
-				"4": "Visual interface editor",
+				"2": "Interface designer ",
+				"3": "Launch of the network ",
+				"4": "Visual interface designer ",
 				"5": ""
 			},
 			"9": {
 				"1": "October",
-				"2": "Ecosystem Hosting and Exchange of Computing Capacities",
+				"2": "Ecosystems hosting and computational power exchange",
 				"3": "",
 				"4": "",
 				"5": ""
 			},
 			"10": {
 				"1": "November",
-				"2": "Multi-thread parallel processing",
-				"3": "Implementation of resource intensive calculations on the client side",
-				"4": "Support for a hybrid database (SQL and NoSQL)",
+				"2": "Parallel multi-threaded processing",
+				"3": "Execution of resource-intensive calculations on the client side ",
+				"4": "Support of hybrid a database (SQL and NoSQL)",
 				"5": ""
 			},
 			"11": {
 				"1": "December",
-				"2": "Incomplete sites",
+				"2": "Partial nodes",
 				"3": "",
 				"4": "",
 				"5": ""
 			},
 			"12": {
-				"1": "first six months",
-				"2": "Visual editor of smart contracts",
+				"1": "In the first six months ",
+				"2": "Visual smart contracts editor ",
 				"3": "",
 				"4": "",
 				"5": ""
 			},
 			"13": {
-				"1": "Second semester",
-				"2": "Unified semantic environment project design",
+				"1": "In the second half of the year",
+				"2": "Single semantic environment for application design",
 				"3": "",
 				"4": "",
 				"5": ""
 			},
 			"14": {
 				"1": "",
-				"2": "Tools for modeling complex management and business processes",
-				"3": "Digital legal system based on smart laws of a separate state",
+				"2": "Tools for modeling of complex managerial and business processes ",
+				"3": "Digital legal system on the basis of smart laws of a state",
 				"4": "",
 				"5": ""
 			}
@@ -502,8 +502,16 @@
 				]
 			},
 			"8": {
-				"COUNTRY": "netherlands",
+				"COUNTRY": "russia",
 				"IMG": "../images/team/team_8.png",
+				"NAME": "Igor Chertov",
+				"PROFESSION": "UX/UI Developer",
+				"TEXT": "Front-end developer with more than five years of experience in the web stack. Certified Microsoft developer (MCSD). Recent work includes several mobile applications and websites for various educational facilities.",
+				"SOCIAL": []
+			},
+			"9": {
+				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_10.png",
 				"NAME": "Jesus Pena",
 				"PROFESSION": "Chief Operating Officer (COO)",
 				"TEXT": "Jesus Pena Garcia is 35 years old blockchain enthusiast, CMO in Alpla - electronic platform for creation the blockchain ecosystems that provides possibilities for managing governmental processes with help of smart-contracts and smart-laws. Apla is the first platform which allows uniting of all state activities on the one blockchain. Also Jesus is founder and CEO of Bitbank, a Fintech company located in Luxembourg. He moved to Luxembourg in 2014 to launch his own business, obtaining financial support from Luxembourg Government for his projects. He joined Grant Thornton Luxembourg in October 2015, where he takes the post of director of the initiative called GT Technology HUB.",
@@ -514,17 +522,17 @@
 					}
 				]
 			},
-			"9": {
+			"10": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_9.png",
+				"IMG": "../images/team/team_11.png",
 				"NAME": "Muhammed Arafath",
 				"PROFESSION": "Regional Franchise Manager/Africa/Asia/Middle East",
 				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
 				"SOCIAL": []
 			},
-			"10": {
+			"11": {
 				"COUNTRY": "netherlands",
-				"IMG": "../images/team/team_10.png",
+				"IMG": "../images/team/team_12.png",
 				"NAME": "Oleg Strelenko",
 				"PROFESSION": "Founder & Chief Executive Officer (CEO)",
 				"TEXT": "Blockchain developer with 5 years of work experience. Developed decentralized electronic currency DCoin (80k lines of Go code) from scratch. He is known in the Russian IT community as Dmitry Kharitonov. For over 10 years, he has developed his own projects and managed IT teams.",
@@ -578,101 +586,101 @@
 	"GOVERNMENT": {
 		"SHOWREEL": {
 			"TITLE": "Apla for <span>Government</span>",
-			"SLOGAN": "private blockchain platform for e-Government",
-			"TEXT": "Instead of automating certain services and functions, Apla proposes to transfer all state activities to the blockchain platform"
+			"SLOGAN": "A private blockchain platform for e-Government",
+			"TEXT": "Apla proposes to transition all governmental activities to a blockchain platform, rather than automating its separate services and/or functions "
 		},
 		"ABOUT": {
 			"TITLE": "Apla",
 			"TEXT": {
-				"1": "This is not a means of digital modeling and automating the activities of the state within the existing legal framework.",
-				"2": "It is a tool for creating a fundamentally new social and legal system in which most legally significant relationships are automatically implemented by smart contacts under the control of smart laws within a single digital space."
+				"1": "It's not a means for digital modeling and automation of governmental activities within the existing legal framework.",
+				"2": "It's an instrument for creation of a conceptually new social and legal system, which will have most of its legally important interactions made automatically by smart contracts governed by smart laws within a single digital environment."
 			},
 			"LIST": {
-				"1": "Registries of all departments are located on one block platform",
-				"2": "Smart contracts ensure the interaction of all registries",
-				"3": "The legal system based on smart contracts regulates the implementation of smart contracts",
-				"4": "The legislative system ensures the holding of elections to representative bodies and the adoption of smart laws"
+				"1": "Registers of all departments are stored in one blockchain platform ",
+				"2": "Smart contracts ensure proper interaction of all registers ",
+				"3": "Legal system based on smart laws regulates the execution of smart contracts ",
+				"4": "Legal system facilitates holding of elections to representative power bodies and adoption of smart laws "
 			}
 		},
 		"DEPARTMENT": {
-			"TITLE": "Apla Ecosystem for each department",
+			"TITLE": "A Separate Apla Ecosystem for Each Department ",
 			"HEAD": {
 				"1": "Ecosystem",
-				"2": "Apla Department",
-				"3": "IT-system",
+				"2": "Apla department",
+				"3": "IT system",
 				"4": "department",
 				"5": "Apla API",
 				"6": "Ecosystems"
 			},
 			"TEXT": {
-				"1": "For each department on the platform Apla creates its own ecosystem, which includes: registers, fraud-proof interfaces, smart contracts and smart regulations that regulate the work of smart contracts",
-				"2": "The secret part of the information the department can keep in its database, putting into the eGaaS ecosystem only the data necessary for interaction with other departments and users.",
-				"3": "The interaction of departments with each other, as well as with individuals and legal entities is controlled by global smart laws of the state platform."
+				"1": "A separate ecosystem should be created on the Apla platform for each department. Each ecosystem includes: registers, falsification-protected interfaces, smart contracts and smart laws that regulate the operation of smart contracts ",
+				"2": "Departments can store their secret information in their own databases, and use data that is required for interaction with other departments and users in an eGaaS ecosystem.",
+				"3": "Interaction of departments with each other, and with individuals and legal entities is controlled by global smart laws of the governmental platform."
 			}
 		},
 		"FUNCTIONAL": {
-			"TITLE": "Required e-Government Functionality",
-			"HEAD": "already implemented in Apla ecosystems",
+			"TITLE": "E-Government Functions ",
+			"HEAD": " available in Apla by default ",
 			"LIST": {
-				"1": "electoral management system",
-				"2": "system of establishment and appointment of posts (roles)",
-				"3": "Tools for voting and polling",
-				"4": "the system of notification of persons and posts about events"
+				"1": "Elections management system ",
+				"2": "System for creation and assignment of job positions (roles)",
+				"3": "Tools for voting and polls",
+				"4": "System for notifying persons and roles about events"
 			}
 		},
 		"BENEFITS": {
-			"TITLE": "Platform Advantages",
-			"TEXT": "for which it is worth using Apla as a tool for building e-Government",
+			"TITLE": "Advantages of the Platform ",
+			"TEXT": "for which Apla is worth using as an e-Government platform",
 			"LIST": {
-				"1": "<strong>Low Costs</strong>for deploying the platform's blockbuster and fast application development.",
-				"2": "<strong>full control</strong>over data access rights",
-				"3": "<strong>Flexible management</strong>parameters of ecosystems and platforms using smart laws.",
-				"4": "<strong>common digital environment</strong>the possibility of using the platform Apla eGaas as a single digital environment for the implementation of activities in any areas (financial, business, social)"
+				"1": "<strong>Low cost</strong> of blockchain platform deployment and high speed of application development.",
+				"2": "<strong>Full control </strong>over data access rights ",
+				"3": "<strong>Comprehensive management </strong>of the platform and its ecosystems on the basis of smart laws.",
+				"4": "<strong>Common digital environment</strong> that allows for using the Apla eGaas platform as a unified environment for implementation of activities in financial, business, social, or any other fields"
 			}
 		}
 	},
 	"BUSINESS": {
 		"SHOWREEL": {
 			"TITLE": "Apla for <strong>Business</strong>",
-			"SLOGAN": "private blockchain platform",
-			"TEXT": "for the creation of digital ecosystems for the organization of financial, commercial and other economic activities"
+			"SLOGAN": "A private blockchain platform ",
+			"TEXT": "for creation of digital ecosystems to organize financial, business, and other economic activities"
 		},
 		"ABOUT": {
 			"TITLE": "Apla for business",
 			"HEAD": "ECOSYSTEMS",
 			"TEXT": {
-				"1": "On a private platform, many ecosystems can be deployed, interacting with each other through a single block.",
-				"2": "These are autonomous digital environments in which the initial implementation"
+				"1": "Private platform can host multiple ecosystems that can interact with each other using a common blockchain.",
+				"2": "are autonomous digital environments that include the following functions by default"
 			},
 			"LIST": {
-				"1": "Data storage with the ultimate protection of their unauthorized modification",
-				"2": "Multi-level structure for managing access rights to data and applications based on roles",
-				"3": "Smart contracts-software modules that perform operations with data with preservation of their reliability",
-				"4": "Smart-laws-software modules that set conditions and restrictions on the implementation of smart contracts"
+				"1": "Storage of data with maximum protection from unauthorized modification ",
+				"2": "Multi-level system for management of access rights to data and applications (based on user roles)",
+				"3": "Smart contracts are software modules that execute operations with data while preserving its reliability",
+				"4": "Smart laws are software modules that establish conditions and limitations on execution of smart contracts "
 			}
 		},
 		"FUNCTIONAL": {
-			"TITLE": "The need for a platform",
-			"TEXT": "The Apla for Business platform is primarily necessary for the organization of economic activity, in which a large number of counterparties need to have a permanent and reliable access to a single stream of events, and event data must be extremely protected from tampering.",
-			"HEAD": "These are such businesses as:",
+			"TITLE": "Use of the Platform",
+			"TEXT": "The Apla for Business platform is a very convenient tool for organization of economic activities, where a lot of counterparts need to have permanent and reliable access to a common flow of events, and the data about these events should be absolutely safe from falsification.",
+			"HEAD": "This includes the following businesses:",
 			"LIST": {
-				"1": "Supply Chain Management System",
+				"1": "Supply chain management ",
 				"2": "Collective use of resources",
-				"3": "Smart home and smart things (Internet things)",
-				"4": "Stock Exchanges and KraudFanding",
-				"5": "service of signing and changing contracts",
-				"6": "order automation service",
+				"3": "Smart homes and smart things (Intenet of things)",
+				"4": "Stock exchanges and crowdfunding",
+				"5": "service for contracts signing and editing",
+				"6": "service for automation of orders ",
 				"7": "Direct sales",
-				"8": "Bonus Systems"
+				"8": "Bonus systems"
 			}
 		},
 		"BENEFITS": {
-			"TITLE": "Platform Advantages",
-			"TEXT": "for which it is worth using Apla for Business as a tool for creating business ecosystems",
+			"TITLE": "Advantages of the Platform ",
+			"TEXT": " for which Apla for Business is worth using as tool to create business ecosystems",
 			"LIST": {
-				"1": "<strong>Low Costs</strong>on deployment of the platform block and the speed of application development.",
-				"2": "<strong>full control</strong>over data access rights based on roles",
-				"3": "<strong>Flexible management</strong>parameters of ecosystems and platforms using smart laws."
+				"1": "<strong>Low cost</strong> of blockchain platform deployment and high speed of application development.",
+				"2": "<strong>Full control </strong> over access rights to data based on user roles ",
+				"3": "<strong>Comprehensive management </strong> of the platform and its ecosystems on the basis of smart laws."
 			}
 		}
 	}
