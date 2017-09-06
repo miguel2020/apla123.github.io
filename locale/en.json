@@ -1,85 +1,417 @@
 {
 	"LANG": "en",
 	"LANGUAGE": "En",
-	"TITLE": "eGaaS - Electronic Government as a Service",
+	"TITLE": "Apla - Public blockchain platform for building digital ecosystems",
 	"MENU": {
-		"MISSION": "Mission",
-		"ABOUT": "About",
+		"HOME": "Home",
 		"TEAM": "Team",
-		"FORUM": "Forum",
-		"DOWNLOAD": {
-			"NAME": "Download",
-			"LITE": "eGaaS v1.0 Lite beta",
-			"FULL": "eGaaS Node v1.0 beta",
-			"PRIVATE": "eGaaS Node v0.1 beta (private)"
-		}
+		"DOWNLOAD": "Download",
+		"DOCUMENTATION": "Documentation"
 	},
-	"COUNTDOWN": {
-		"START": "ICO will start in:",
-		"FINISH": "ICO will finish in:",
-		"LEFT": "Offer will be in force another",
-		"DAYS": "Days",
-		"HOURS": "Hours",
-		"MINUTES": "Minutes",
-		"SECONDS": "Seconds"
-	},
-	"SUBSCRIBE": {
-		"HEAD": "Subscribe to news",
-		"PLACEHOLDER": "Your email",
-		"INCORRECT": "Incorrect e-mail address!",
-		"THANKS": "Thank you!",
-		"SUBSCRIBED": "You are already subscribed to newsletter!",
-		"TEXT": "1-2 important emails per month"
+	"FOOTER": {
+		"GOVERNMENT": "Apla for government",
+		"BUSINESS": "Apla for business",
+		"COPYRIGHT": "Apla, All Rights Reserved."
 	},
 	"MAIN": {
-		"BANNER": {
-			"SLOGAN": "EGAAS<br />Electronic Government as&nbsp;a&nbsp;Service",
-			"TEXT": "EGaaS is a blockchain platform for organizing economic, public and social activities. These events are powered by smart laws and smart contracts"
-		},
-		"MISSION": {
-			"HEAD1": "Mission",
-			"HEAD2": "Technology",
-			"TEXT1": "eGaaS’s main mission is to free people, business and governments from routine bureaucratic procedures and to serve as a tool that could be used to organize any activity and exercise control over that activity without documents circulation. eGaaS is aimed at illuminating the shadow niche in which the modern financial and political systems reside. eGaaS should become the platform on which the State and business structures of all countries should function harmoniously for the benefit of the citizens.",
-			"TEXT2": "eGaaS performs four basic functions required for efficient transfer of most types of government and business activities into blockchain technology: financial system, registry structure, smart contract algorithm and smart law formation and execution mechanism. The financial system secures transactions in the currency of a particular country. Smart contracts automatically implement the algorithm of deals involving registry objects and with possible fiat-currency transactions. Smart laws regulate the creation and implementation of smart contracts and automatically regulate relations between individuals and organizations in all areas of government activity.",
+		"SHOWREEL": {
+			"TITLE": "Apla",
+			"SLOGAN": "Public blockchain platform for building digital ecosystems",
+			"TEXT": "Create an ecosystem for developing and running blocking applications in one click.",
 			"BUTTONS": {
-				"TEXT1": "Transferring the activities of governments and legislative bodies to the eGaaS platform can save nearly 10&nbsp;% of global GDP each year.",
-				"TEXT2": "Learn more:"
+				"DOWNLOAD": "Download wallet",
+				"OTHER": "other operation systems"
+			},
+			"SUBSCRIBE": {
+				"PLACEHOLDER": "Your e-mail",
+				"REQUIRED": "Email is required.",
+				"INCORRECT": "Incorrect e-mail address!",
+				"DUBLICATE": "You are already subscribed to newsletter!",
+				"READY": "Thank you!",
+				"TEXT": "Subscribe to news"
 			}
 		},
 		"ABOUT": {
-			"HEAD1": "Government",
-			"HEAD2": "Legislation",
-			"HEAD3": "Voting",
-			"HEAD4": "Finance",
-			"HEAD5": "Common registry",
-			"HEAD6": "Medicine",
-			"HEAD7": "Business",
-			"HEAD8": "Social protection",
-			"TEXT1": "Each State independently sets the structure of its state organs, establishes its governance and principles of relations between citizens and institutions. eGaaS only regulates the protocols for confirming and recording data in the registries of governments, provides templates of basic smart laws and supports their adoption and implementation mechanism.",
-			"TEXT2": "All state laws, whose subjects are the objects listed in the eGaaS blockchain registries, are transferred into smart law format. Smart laws are directly effective laws. Implementing them does not require intermediaries or regulatory authorities. Amendments and changes made to them take effect immediately. Many of the functions of government bodies – such as registration of civil status (birth, marriage, and divorce), taxation, regulation of financial and business relations and many others – are automatically performed and controlled by eGaaS smart laws.",
-			"TEXT3": "In eGaaS, citizens can be reliably identified, thus simplifying election procedures – special smart laws prescribe the period and conditions of elections, accept applications from candidates, launch the voting procedure and count the votes. Voting by means of electronic keys is quick and incurs minimum cost. Voting results, that are stored in the blockchain, can hardly be tampered with.",
-			"TEXT4": "For a State to join the common blockchain platform, it needs to first open eGaaS accounts for all individuals and legal entities in its Central Bank. From this point onwards, all financial transactions – from buying of goods in the shop to execution of state budget – will be conducted under the control of smart laws. Any financial obligations (repayment of loan, insurance payout, payment of bills) are secured via smart contracts and are executed automatically. eGaaS protocols easily and reliably implement p2p lending procedures.",
-			"TEXT5": "Smart laws and smart contracts can function efficiently only if maximum number of registries is transferred to the eGaaS platform: registries of natural persons and legal entities, of property, of copyrights, inventions, etc. Needless to say that blockchain technology would greatly enhance registry security against manipulation and fraud.",
-			"TEXT6": "eGaaS keeps all medical records, medical recommendations, diagnoses, etc. of each person, while maintaining anonymity of data. Because of this, each person can receive effective treatment anywhere in the world. At the same time, medical science and pharmacology obtain unique statistical information that would take diagnosis and prescription of treatment to an entirely new level.",
-			"TEXT7": "eGaaS is a complete tool for effective business operations. It contains a common structure of registries (companies, products, licenses, etc.), whose objects are used when drawing up smart contracts. The smart law system secures automatic deduction of taxes, customs duties and other charges.",
-			"TEXT8": "Keeping records of the income and medical data of citizens would allow the government, or more precisely, a special smart law, to optimally implement social support in the form of disability pensions, various allowances and benefits. The state pension system is also implemented on the basis of smart laws, which automatically allocates social tax, calculates pensions and starts paying them when the citizen reaches a retirement age.",
-			"WHAT": {
-				"HEAD": "What is eGaaS?",
-				"TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer volutpat, tellus porta lacinia condimentum, est augue porttitor enim, a cursus quam lacus a nisi. Nullam aliquam dapibus mauris vel dapibus. Vestibulum laoreet congue congue. Nam purus metus, blandit quis porta at, mattis ac nunc. Integer vel malesuada nisl.",
-				"PLAY": "Play our video",
-				"PLAYTEXT": "We filmed it for you"
+			"TITLE": "Apla is",
+			"TEXT": "create blockchain projects easily and quickly"
+		},
+		"CONCEPT": {
+			"TITLE": "Proof of concept",
+			"TEXT": "Apla presented several proofs of concepts taken by potential customers from several countries in Europe and Asia",
+			"CODE": "Source code",
+			"CONCEPT": "Site-concept",
+			"1": {
+				"NAME": "Obtaining a business license",
+				"DEVELOPMENT_APLA": "Development time on Apla",
+				"DEVELOPMENT_APLA_TIME": "135 man-hours",
+				"DEVELOPMENT_OTHER": "Development time on ethereum",
+				"DEVELOPMENT_OTHER_TIME": "1150 man-hours",
+				"LIST": {
+					"1": "Preparing registration application",
+					"2": "Creating a list of shareholders",
+					"3": "Automatic decision-making based on data available in registries (citizens, companies, real estate)",
+					"4": "Selecting premises from the real estate registry and signing a lease agreement",
+					"5": "Notifying departmental officials that take decisions on the application",
+					"6": "Recording decisions and names of officials in the notification log",
+					"7": "Updating the register of companies and shareholders"
+				}
 			},
-			"PRESS": {
-				"HEAD": "Press"
+			"2": {
+				"NAME": "Poll and voting system",
+				"DEVELOPMENT_APLA": "Development time on Apla",
+				"DEVELOPMENT_APLA_TIME": "135 man-hours",
+				"DEVELOPMENT_OTHER": "Development time on ethereum",
+				"DEVELOPMENT_OTHER_TIME": "1150 man-hours",
+				"LIST": {
+					"1": "Entering voting questions",
+					"2": "Selecting the polling type: an unambiguous direct Yes/No answer or a full-text answer",
+					"3": "Setting the start and end time of the polling",
+					"4": "Moderating the polling or voting: stopping, deleting, and previewing results.",
+					"5": "Conducting a polling or voting on the computers or mobile devices of ecosystem members",
+					"6": "Graphical presentation of voting results after its completion."
+				}
+			},
+			"3": {
+				"NAME": "Management of cadastral register",
+				"DEVELOPMENT_APLA": "Development time on Apla",
+				"DEVELOPMENT_APLA_TIME": "135 man-hours",
+				"DEVELOPMENT_OTHER": "Development time on ethereum",
+				"DEVELOPMENT_OTHER_TIME": "1150 man-hours",
+				"LIST": {
+					"1": "Input of data on a new land plot, recording its owner, land use form, building class, address and area (the last two parameters are determined automatically with possible editing)",
+					"2": "Recording all changes and persons who made them in the registry history",
+					"3": "Displaying information about registry objects (land plots) both in the general table and in separate pages",
+					"4": "Prototype of contract of sale of land plot."
+				}
+			}
+		},
+		"DESCRIPTION": {
+			"TITLE": "How it works",
+			"DOCUMENTATION": "Documentation",
+			"1": {
+				"NAME": "Programming language of contracts <strong>Simvolio</strong>",
+				"TEXT": {
+					"1": "Simvolio is the language for writing smart contracts with fast compilation in byte code.",
+					"2": "Simvolio supports a standard set of statements and constructions, functions for handling database tables and an error handling system.",
+					"3": "The contract code is written in Molis editor."
+				}
+			},
+			"2": {
+				"NAME": "Ecosystem database",
+				"TEXT": {
+					"1": "Each ecosystem has its own database. Database management tools are used to create tables, add columns and assign access rights."
+				}
+			},
+			"3": {
+				"NAME": "Template engine native language <strong>Protypo</strong>",
+				"TEXT": {
+					"1": "Application user interfaces are written in Protypo, a special language of the template engine. The functions and constructions of the Protypo language enable you to obtain values from the database, build forms for transferring values to contracts and performing other operations.",
+					"2": "The interface page code is created in a special editor of software client Molis."
+				}
+			}
+		},
+		"VISUAL": {
+			"TITLE": "Visual interface designer",
+			"TEXT": "The visual interface designer allows to easily and quickly customize the appearance of application pages without resorting to HTML code. It is used to add text blocks, form and navigation elements, tables and diagrams to the page, as well as to configure their styles, position and sizes."
+		},
+		"TABLE": {
+			"TITLE": "Comparison table of 5 platforms",
+			"TEXT": "Molis is a single tool for accessing all the functionality of Apla. Molis contains APLwallet and an integrated application development environment",
+			"HEAD": {
+				"1": "Apla",
+				"2": "Ethereum",
+				"3": "Hyperledger<br />Fabric",
+				"4": "Tezos",
+				"5": "EOS"
+			},
+			"ROW": {
+				"1": {
+					"NAME": "Network type",
+					"TD": {
+						"1": "Public/private",
+						"2": "Public",
+						"3": "Private",
+						"4": "Public",
+						"5": "Public"
+					}
+				},
+				"2": {
+					"NAME": "Mining (emission of tokens at block formation)",
+					"TD": {
+						"1": "",
+						"2": "",
+						"3": "",
+						"4": "",
+						"5": ""
+					}
+				},
+				"3": {
+					"NAME": "Full nodes limit",
+					"TD": {
+						"1": "",
+						"2": "",
+						"3": "Limited by the number of blockchain channel members",
+						"4": "",
+						"5": ""
+					}
+				},
+				"4": {
+					"NAME": "Number of blockchains",
+					"TD": {
+						"1": "",
+						"2": "",
+						"3": "A separate channel for every project",
+						"4": "",
+						"5": "with an ability for data exchange between different blockchains"
+					}
+				},
+				"5": {
+					"NAME": "Consensus method",
+					"TD": {
+						"1": "DPoS",
+						"2": "PoW",
+						"3": "Practical Byzantine Fault Tolerance",
+						"4": "Various algorithms",
+						"5": "DPoS"
+					}
+				},
+				"6": {
+					"NAME": "Availability of a “legal framework”",
+					"TD": {
+						"1": "At the contract level",
+						"2": "",
+						"3": "",
+						"4": "At the protocol level",
+						"5": "At the protocol level"
+					}
+				},
+				"7": {
+					"NAME": "Availability of a formal check of contract source codes",
+					"TD": {
+						"1": "",
+						"2": "",
+						"3": "",
+						"4": "",
+						"5": ""
+					}
+				},
+				"8": {
+					"NAME": "Block reward",
+					"TD": {
+						"1": "Commission",
+						"2": "Commission + token emission",
+						"3": "",
+						"4": "Token emission",
+						"5": "Token emission"
+					}
+				},
+				"9": {
+					"NAME": "Contract changing procedure",
+					"TD": {
+						"1": "In accordance with rules set out in smart laws",
+						"2": "",
+						"3": "",
+						"4": "",
+						"5": "At the protocol level, decisions are made by voting of validating nodes"
+					}
+				},
+				"10": {
+					"NAME": "Access rights system",
+					"TD": {
+						"1": "Access rights are managed by contracts and allow for accessing all elements of applications",
+						"2": "",
+						"3": "",
+						"4": "",
+						"5": "Management of accounts' access rights"
+					}
+				},
+				"11": {
+					"NAME": "User interface",
+					"TD": {
+						"1": "Internal template engine language and a visual interface designer",
+						"2": "",
+						"3": "",
+						"4": "",
+						"5": "To be updated (no description yet)"
+					}
+				},
+				"12": {
+					"NAME": "Date of launch",
+					"TD": {
+						"1": "testnet – February 2017<br />mainnet – September 2017",
+						"2": "Alfa version – July 2015<br />Stable release – March 2016",
+						"3": "Hyperledger Fabric 1.0<br />July 2017",
+						"4": "No data",
+						"5": "No data"
+					}
+				},
+				"13": {
+					"NAME": "Development",
+					"TD": {
+						"1": "Paralleled processing of transactions, partial nodes, visual contract and interface editors, semantic instruments",
+						"2": "Sharding for scaling, transition to PoS",
+						"3": "",
+						"4": "",
+						"5": ""
+					}
+				}
+			}
+		},
+		"ECOSYSTEM": {
+			"TITLE": "Apla ecosystem",
+			"TEXT": "Any owner of an Apla account can create his or her own ecosystem in one click. An ecosystem is a software environment for writing and running blockchain applications. Access to applications and right to participate in ecosystem management are owned by its members – Apla users invited by the ecosystem creator.",
+			"NAME": "ecosystem",
+			"CREATE": "create in one click",
+			"BOX": "In the ecosystem, applications are available out-of-the-box",
+			"LIST": {
+				"1": "Financial system with configuration of emission parameters",
+				"2": "System for managing ecosystem members and roles",
+				"3": "News service with ratings, commenting posts and paying for activity",
+				"4": "Voting and polling tools",
+				"5": "Messenger for messaging between ecosystem members"
+			}
+		},
+		"SOFTWARE": {
+			"TITLE": "Apla software client",
+			"TEXT": "Molis is a single tool for accessing all Apla features. Molis contains an APL wallet and an integrated development environment for blockchain applications."
+		},
+		"ENVIRONMENT": {
+			"TITLE": "Integrated development environment",
+			"LIST": {
+				"1": "Contract<br />editor",
+				"2": "Database<br />administration tools",
+				"3": "Template engine<br />code editor",
+				"4": "Visual<br />interface designer"
+			}
+		},
+		"ACCESS": {
+			"TITLE": "Access control mechanism",
+			"TEXT": "One of the main advantages of Apla over other blockchain platforms is that it has a multi-level access rights management mechanism in the ecosystem software environment.",
+			"DESCRIPTION": {
+				"1": "Access rights are set for all operations: creating and changing contracts, database tables, interfaces.",
+				"2": "Access rights can be provided to members of the ecosystem, to roles and to smart contracts."
+			}
+		},
+		"PROSPECTS": {
+			"TITLE": "Development prospects for Apla",
+			"TEXT": "We listed above what is already working, what is already available in the testnet test network, and what will function when Apla’s working version is launched in September 2017.",
+			"HEAD": "What Apla will offer in the near future:",
+			"LIST": {
+				"1": "Visual smart contract editor and visual template editor",
+				"2": "Support for hybrid database (SQL&nbsp;and&nbsp;NoSQL)",
+				"3": "Mechanism for legal resolution of problems arising from attacks and vulnerabilities",
+				"4": "Tools for modeling complex management and business processes for implementation of eGovernment and digital economy",
+				"5": "Ontological shell for implementing a single semantic application design environment"
+			}
+		},
+		"ROADMAP": {
+			"NOW": "Now",
+			"1": {
+				"1": "October",
+				"2": "Blockchain",
+				"3": "Easy software client",
+				"4": "Virtual machines of programming languages (Simvolio and Protypo)",
+				"5": "A software client with an integrated development environment (Molis)"
+			},
+			"2": {
+				"1": "December",
+				"2": "",
+				"3": "Language resources",
+				"4": "Export / import applications",
+				"5": ""
+			},
+			"3": {
+				"1": "January",
+				"2": "Basic applications for ecosystems",
+				"3": "Resource payment system",
+				"4": "",
+				"5": ""
+			},
+			"4": {
+				"1": "February",
+				"2": "",
+				"3": "Contracts signed",
+				"4": "",
+				"5": ""
+			},
+			"5": {
+				"1": "March",
+				"2": "",
+				"3": "Testnet",
+				"4": "",
+				"5": ""
+			},
+			"6": {
+				"1": "April",
+				"2": "",
+				"3": "Testnet",
+				"4": "",
+				"5": ""
+			},
+			"7": {
+				"1": "August",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": ""
+			},
+			"8": {
+				"1": "September",
+				"2": "Interface Designer",
+				"3": "Starting the Network",
+				"4": "Visual interface editor",
+				"5": ""
+			},
+			"9": {
+				"1": "October",
+				"2": "Ecosystem Hosting and Exchange of Computing Capacities",
+				"3": "",
+				"4": "",
+				"5": ""
+			},
+			"10": {
+				"1": "November",
+				"2": "Multi-thread parallel processing",
+				"3": "Implementation of resource intensive calculations on the client side",
+				"4": "Support for a hybrid database (SQL and NoSQL)",
+				"5": ""
+			},
+			"11": {
+				"1": "December",
+				"2": "Incomplete sites",
+				"3": "",
+				"4": "",
+				"5": ""
+			},
+			"12": {
+				"1": "first six months",
+				"2": "Visual editor of smart contracts",
+				"3": "",
+				"4": "",
+				"5": ""
+			},
+			"13": {
+				"1": "Second semester",
+				"2": "Unified semantic environment project design",
+				"3": "",
+				"4": "",
+				"5": ""
+			},
+			"14": {
+				"1": "",
+				"2": "Tools for modeling complex management and business processes",
+				"3": "Digital legal system based on smart laws of a separate state",
+				"4": "",
+				"5": ""
 			}
 		},
 		"TEAM": {
-			"HEAD": "Team",
+			"TITLE": "Team",
 			"1": {
 				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_1.png",
 				"NAME": "Vitaly Bondar",
-				"PROFESSION": "Chief Legal Officer  (CLO)",
+				"PROFESSION": "Chief Legal Officer (CLO)",
 				"TEXT": "Vitaly is a Russian qualified lawyer and Legal Director of the Luxembourg based law firm ChristmannSchmitt. He is an expert in e-commerce and private international law matters. In the past 15 years, he has been holding senior positions at large international law firms and industrial companies with a focus on cross-border M&A deals and transaction structuring.  Vitaly graduated from the law faculty of Kuban State University, Russia, in 1999, and further obtained a postgraduate diploma (L.L.M) in International Banking and Commercial Law in 2001 from Queen Mary University in London.",
 				"SOCIAL": [
 					{
@@ -184,6 +516,14 @@
 			},
 			"9": {
 				"COUNTRY": "netherlands",
+				"IMG": "../images/team/team_9.png",
+				"NAME": "Muhammed Arafath",
+				"PROFESSION": "Regional Franchise Manager/Africa/Asia/Middle East",
+				"TEXT": "A graduate from Southern Cross University, Australia certified Blockchain business analyst, has 10+ years experience working with diverse verticals, industries and international markets. Currently exploring the intersection of artificial intelligence, blockchains and the internet of things. He is actively work with government and private organizations to help them adopt blockchain technology.",
+				"SOCIAL": []
+			},
+			"10": {
+				"COUNTRY": "netherlands",
 				"IMG": "../images/team/team_10.png",
 				"NAME": "Oleg Strelenko",
 				"PROFESSION": "Founder & Chief Executive Officer (CEO)",
@@ -195,201 +535,145 @@
 					}
 				]
 			},
-			"TEXT": "We are expanding our team!<br />If you are an expert in golang, please <a href='mailto:hello@egaas.org'>send us your CV</a>.<br />Join the egaas team!"
+			"CONTACT": "We are expanding our team!<br />If you are an expert in golang, please <a href='mailto:hello@egaas.org'>send us your CV</a>.<br />Join the egaas team!"
 		},
-		"STATES": {
-			"HEAD": "Partnership",
-			"TEXT": "States engaged in beta test eGaaS platform.",
-			"NAME1": "Republic of Liberland",
-			"TEXT1": "<strong>Establishment</strong> - April 2015.<br /><strong>Location</strong> - Gornja Siga, a 7 square kilometers area between Croatia and Serbia.<br /><strong>President and founder</strong> - Vít Jedlička.<br /><strong>Population</strong> - around 350 thousand people have applied for citizenship.<br /><strong>Web</strong> - <a href='https://liberland.org/' target='_blank'>liberland.org</a>, <a href='https://en.wikipedia.org/wiki/Liberland' target='_blank'>wikipedia.org</a>.<br /><br />&quot;We are happy to be first the beta testers of eGaas. We are exploring ways how to form partnership&quot;.<br />Vit Jedlička, Liberland president",
-			"NAME2": "Blockchain-state Arctida",
-			"TEXT2": "<strong>Proclaimed</strong> - 2015.<br /><strong>Location</strong> - Mobile state (no site).<br /><strong>Initiator</strong> - the UNESCO expedition leader, the traveler <a href='https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D1%8C%D1%91%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA)' target='_blank'>Sergey Soloviev</a>.<br /><strong>Population</strong> - Over 50 thousand people expressed their desire to obtain citizenship.<br /><br />&quot;Congratulations to all of our supporters with the start of cooperation with the best platform to transfer for governments and legislatures to blockchain technology&quot;.<br />Sergey Soloviev.",
-			"NAME3": "World Passport",
-			"TEXT3": "<strong>Establishment</strong> - 4 September 1953.<br /><strong>Founder of World Service Authority</strong> - <a href='https://en.wikipedia.org/wiki/Garry_Davis' target='_blank'>Garry Davis</a>.<br /><strong>President and General Counsel of WSA</strong> - David Gallup.<br /><strong>Number of registered world citizens</strong> - Over 1,000,000.<br /><strong>Web</strong> - <a href='http://www.worldservice.org/' target='_blank'>worldservice.org</a>, <a href='https://en.wikipedia.org/wiki/World_Passport' target='_blank'>wikipedia.org</a>.<br /><br />&quot;I am excited about the prospects of how the eGaaS platform can take the human rights advocacy and documentation work of the WSA into the 21st century.&quot;.<br />David Gallup, President and General Counsel of WSA."
+		"BLOG": {
+			"TITLE": "Blog Apla"
 		}
 	},
 	"DOWNLOAD": {
 		"LITE": {
-			"HEAD": "eGaaS v1.0 Lite beta",
+			"HEAD": "Apla v1.0 Lite beta",
 			"TEXT1": "You can run the app and start working right away, there is no need to wait for blockchain synchronization.",
 			"TEXT2": "Minimal feature-set",
 			"TEXT3": "No blockchain download",
 			"TEXT4": "Instant Access"
 		},
 		"FULL": {
-			"HEAD": "eGaaS Node v1.0 beta",
+			"HEAD": "Apla Node v1.0 beta",
 			"TEXT1": "You can launch your node, engage in forging or delegate forging. To start work, you must install <a href='https://www.postgresql.org/' target='_blank'>PostgreSQL</a>."
 		},
 		"PRIVATE": {
-			"HEAD": "eGaaS Node v0.1 beta <span>(private)</span>",
+			"HEAD": "Apla Node v0.1 beta <span>(private)</span>",
 			"TEXT1": "Smart contracts, smart laws, states, citizens, etc.",
-			"TEXT2": "<!--This version contains bugs that we have not had time to fix yet, and there are some shortcomings. But we decided to make it publicly available to show what we're currently working on. -->To start work, you must install <a href='https://www.postgresql.org/' target='_blank'>PostgreSQL</a>. The documentation is in the process of writing. You can also watch the video showing a part of the functionality of this version",
-			"TEXT3": "Play video"
+			"TEXT2": "To start work, you must install <a href='https://www.postgresql.org/' target='_blank'>PostgreSQL</a>. The documentation is in the process of writing. You can also watch the video showing a part of the functionality of this version",
+			"VIDEO": {
+				"1": "Business Applications",
+				"2": "Election",
+				"3": "Basic Functionality"
+			}
 		},
 		"INSTRUCTION": {
-			"TEXT": "eGaaS app installation instruction",
+			"TEXT": "Apla app installation instruction",
 			"LINK": "https://github.com/EGaaS/go-egaas-mvp/wiki/eGaaS-app-installation-instruction"
 		},
 		"WEB": "Web",
 		"SOURCE": "Source code",
+		"MOBILE": "Mobile app",
 		"GO": "Go",
 		"DOWNLOAD": "Download",
 		"DOWNLOAD32": "Download 32",
 		"DOWNLOAD64": "Download 64"
 	},
-	"ICO": {
-		"BUY": "Buy tokens",
-		"BANNER": {
-			"SLOGAN": "Electronic Government as&nbsp;a&nbsp;Service",
-			"TEXT": "Hurry up to buy tokens on the 1st day of sales with a <strong>50&nbsp;% bonus</strong>, limited quantity",
-			"LEFT": "<!--EGS with a <strong>bonus of <i>{{bonus}}%</i><span> 60%<span></strong> left: --><b>{{left}}</b>"
+	"GOVERNMENT": {
+		"SHOWREEL": {
+			"TITLE": "Apla for <span>Government</span>",
+			"SLOGAN": "private blockchain platform for e-Government",
+			"TEXT": "Instead of automating certain services and functions, Apla proposes to transfer all state activities to the blockchain platform"
 		},
-		"MISSION": {
-			"TEXT": "The main mission of eGaaS is to create a common international platform for full implementation of an electronic government as a service, which would free citizens and businesses from routine bureaucratic procedures, provide a tool for organizing all activities and exercising control over them without documents circulation.",
-			"PEOPLES": {
-				"TEXT1": "Were employed in 2015 in the US alone in the field of accounting and auditing",
-				"TEXT2": "The rise in their number is projected in the coming years",
-				"TEXT3": "people"
+		"ABOUT": {
+			"TITLE": "Apla",
+			"TEXT": {
+				"1": "This is not a means of digital modeling and automating the activities of the state within the existing legal framework.",
+				"2": "It is a tool for creating a fundamentally new social and legal system in which most legally significant relationships are automatically implemented by smart contacts under the control of smart laws within a single digital space."
 			},
-			"FINANCE": {
-				"TEXT1": "Expenses of the US Internal Revenue Service (IRS) in 2015 amounted to",
-				"TEXT2": "Total revenue of the US banking sector formed from expenses of businesses and citizens on banking services in 2015",
-				"TEXT3": "Business expenses on accounting services and preparation of tax documentation in the US by 2018 could reach",
-				"TEXT4": "Turnover of the US shadow economy in 2012",
-				"TEXT5": "Losses from unpaid taxes on wages in the shadow economy",
-				"TEXT6": "billion",
-				"TEXT7": "trillion"
-			},
-			"BUTTONS": {
-				"TEXT1": "Transferring the activities of governments and legislative bodies to the eGaaS platform can save nearly 10&nbsp;% of global GDP each year.",
-				"TEXT2": "Learn more:"
+			"LIST": {
+				"1": "Registries of all departments are located on one block platform",
+				"2": "Smart contracts ensure the interaction of all registries",
+				"3": "The legal system based on smart contracts regulates the implementation of smart contracts",
+				"4": "The legislative system ensures the holding of elections to representative bodies and the adoption of smart laws"
 			}
 		},
-		"PLATFORM": {
-			"HEAD": "Platform for business and communities",
-			"TEXT": "eGaaS is technically a blockchain platform with the mechanism for creation and execution of smart contracts and smart laws. Therefore, even before the governments’ joining it, the platform can be successfully used to create a variety of financial, business and social applications, such as payment systems, stock exchanges, insurance and credit organizations, accounting and management systems in all fields, from commerce to medicine. eGaaS allows to create highly customizable applications with multiple functions implemented by smart contracts. Rules and conditions of smart contracts execution that are common for an application are recorded as smart laws. The eGaaS platform is a handy tool for the organization of the communities’ activities. It allows setting the rules of relations between their members and conduct voting.",
-			"IMG": {
-				"TEXT1": "Smart contracts",
-				"TEXT2": "Registries",
-				"TEXT3": "Finance",
-				"TEXT4": "Smart laws"
+		"DEPARTMENT": {
+			"TITLE": "Apla Ecosystem for each department",
+			"HEAD": {
+				"1": "Ecosystem",
+				"2": "Apla Department",
+				"3": "IT-system",
+				"4": "department",
+				"5": "Apla API",
+				"6": "Ecosystems"
+			},
+			"TEXT": {
+				"1": "For each department on the platform Apla creates its own ecosystem, which includes: registers, fraud-proof interfaces, smart contracts and smart regulations that regulate the work of smart contracts",
+				"2": "The secret part of the information the department can keep in its database, putting into the eGaaS ecosystem only the data necessary for interaction with other departments and users.",
+				"3": "The interaction of departments with each other, as well as with individuals and legal entities is controlled by global smart laws of the state platform."
 			}
 		},
-		"ROADMAP": {
-			"HEAD": "Roadmap",
-			"LEFT": {
-				"TEXT1": "Idea of creating eGaaS: early",
-				"TEXT2": "eGaaS application",
-				"TEXT3": "The first State transfers registry of citizens, legislation on civil status and electoral system to the eGaaS platform",
-				"TEXT4": "The first State opens an account in eGaaS in its national currency and translates the tax system and business law into smart laws",
-				"TEXT5": "Full transfer of the functioning of EU governments to the eGaaS platform",
-				"TEXT6": "The United States fully transfers to eGaaS",
-				"TEXT7": "90&nbsp;% of the world using eGaaS",
-				"TEXT8": "99&nbsp;% of the world using eGaaS"
-			},
-			"RIGHT": {
-				"TEXT1": "August 2016",
-				"TEXT2": "Development of smart law and smart contract mechanisms",
-				"TEXT3": "October 2016",
-				"TEXT4": "Release of the first version of the eGaaS application",
-				"TEXT5": "November 15",
-				"TEXT6": "ICO",
-				"TEXT7": "Merging of v1.x and v0.x versions, which will enable to create states, communities, smart contracts/laws, etc. on a common eGaaS blockchain: Q1",
-				"TEXT8": "A stable full-featured version of the eGaaS application: Q2",
-				"TEXT9": "Launching of financial technology, insurance, registry, and other business and social applications on the eGaaS platform: Q3",
-				"TEXT10": "States start testing eGaaS: Q4"
+		"FUNCTIONAL": {
+			"TITLE": "Required e-Government Functionality",
+			"HEAD": "already implemented in Apla ecosystems",
+			"LIST": {
+				"1": "electoral management system",
+				"2": "system of establishment and appointment of posts (roles)",
+				"3": "Tools for voting and polling",
+				"4": "the system of notification of persons and posts about events"
 			}
 		},
-		"MODEL": {
-			"HEAD": "Business model",
-			"TEXT1": "The investor buys EGS tokens from eGaaS.",
-			"TEXT2": "eGaaS develops and launches a blockchain platform using the proceeds.",
-			"TEXT3": "eGaaS clients (governments, corporations, individuals) pay for transactions and the use of smart contracts and smart laws with the EGS tokens, buying them from investors.",
-			"TEXT4": "eGaaS nodes sell EGS to maintenance and expansion of data centers.",
-			"TEXT5": "1&nbsp;% of the clients’ payments for nodes's services goes to eGaaS development.",
-			"INVESTOR": "Investor",
-			"CLIENT": "Client",
-			"TEAM": "eGaaS team",
-			"PLATFORM": "eGaaS platform",
-			"SERVICES": "Services"
-		},
-		"RELEASE": {
-			"HEAD": "EGS emission",
-			"TEXT": "EGS tokens were emitted only once, in an amount of 100 million."
-		},
-		"DISTRIBUTION": {
-			"HEAD": "EGS distribution",
-			"PIE": {
-				"TEXT1": "goes to investors (those that invested in the project before ICO), to the team and to future employees as motivational packages<span><em>7.5%</em> - those who invested before ICO<br /><em>22.5%</em> - developers<br /><em>5% </em>- motivation packages</span>",
-				"TEXT2": "will be sold at ICO in several stages.<span><em>5.9%</em> - 11/15/2016 - 12/15/2016<br /><em>11.8%</em> - 03/01/2017 - 04/01/2017<br /><em>11.8%</em> - 11/15/2017 - 12/15/2017<br /><em>11.8%</em> - 07/01/2018 - 08/01/2018<br /><em>11.8%</em> - 03/01/2019 - 04/01/2019<br /><em>11.9%</em> - 11/15/2019 - 12/15/2019</span>"
-			},
-			"TEXT1": "The need to conduct ICO in several stages is to enhance transparency in the activities of the eGaaS team and increase the possibility of reporting to investors after each stage. To implement the next roadmap step after ICO,  $500,000 investment is required. Therefore, during the first ICO stage, 5,64 million EGS tokens will be sold.",
-			"TEXT2": "We plan to sell the remaining 59.1&nbsp;% during 2017-2019 in several stages."
-		},
-		"SALE": {
-			"HEAD": "Why is sale of our tokens in several stages beneficial to investors?",
-			"TEXT1": "Before each stage, we show what we have done and report what the investment has been spent on",
-			"TEXT2": "We will carry out the promotional campaign during each stage, so the rate will grow on the stock exchange before the ICO",
-			"TEXT3": "During each stage, we will sell tokens at higher price than during the previous stage"
-		},
-		"FIRST": {
-			"HEAD": "Why is it better to buy tokens in the first stage?",
-			"TEXT": "It must be kept in mind that restricting the sale of tokens in the first stage of the ICO at a fixed price, an advertising campaign before the second ICO, and start of eGaaS negotiations with several countries may lead to a sharp growth of the EGS rate on the exchanges by the second stage of the ICO, which will take place in 2017."
-		},
-		"STAGES": {
-			"HEAD": "Sales in the <strong>first stage</strong> are divided into five periods with the following discounts:",
-			"STEPS": {
-				"TEXT1": "1st day: bonus",
-				"TEXT2": "1st week: bonus",
-				"NOTE2": "Bonus is added because of BTC's raise",
-				"TEXT3": "2nd week: bonus",
-				"TEXT4": "3rd week: bonus",
-				"TEXT5": "4th week",
-				"LIMIT": "Limit"
-			},
-			"CASE": {
-				"TEXT1": "Sold:",
-				"TEXT2": "Remaining:"
-			},
-			"TEXT": "* When the limit is reached, the system moves to the next sales stage with a new discount. Therefore, the ICO stage can be completed ahead of schedule if the token limit is exhausted."
-		},
-		"WHY": {
-			"HEAD": "Why buy EGS",
-			"TEXT1": "EGS tokens ensure security of the eGaaS platform and working capacity of its nodes: opening of new tables, adding attributes, connecting and performing smart contracts and smart laws are paid for in EGS. Therefore, private and corporate users of the platform, as well as states will have to buy EGS to secure the working capacity of their eGaaS projects. Hence, the need for EGS tokens will inevitably grow, which will increase their exchange rate because EGS will be emitted only once.",
-			"TEXT2": "It is inevitable that obsolete forms of governance will die out, while governments will be transformed into e-services for citizens. Do not miss the chance to participate in this revolutionary project in the first stages of its development."
-		},
-		"DONE": {
-			"HEAD": "What has been done to date?",
-			"TEXT1": "We’ve created two versions of the eGaaS application:",
-			"TEXT2": "stable; for EGS tokens; available both in Lite version and in node control mode; the light version is also available for IOS and Android",
-			"TEXT3": "unstable and so is powered by private blockchains; it can be used on your PC or local network; it allows to create eGaaS nodes, etc.",
-			"TEXT4": "In v 0.x, through creation of new and modification of existing tables, pages, menus, and smart contracts of eGaaS, you can configure a state or community to suit your taste.",
-			"TEXT5": "In the near future, we will add embedded applications (sets of smart contracts, smart laws, tables, pages, menus) in the 0.x version after which it will be possible to – in a few clicks – create interstate unions, monetary unions, central banks, registries, stock exchanges and so forth.",
-			"TEXT6": "In the future, the 0.x and 1.x versions will be merged after which v 1.x will have all the features of version 0.x – instead of private blockchains there will be a common blockchain. All the countries and communities will be able to interact with each other, and will use EGS tokens for network protection."
-		},
-		"FUNDS": {
-			"HEAD": "Distribution of ICO funds",
-			"TEXT": "Main expenditure items of ICO funds",
-			"PIE": {
-				"TEXT1": "Finalization of the current version and writing from scratch of a new eGaaS stable version",
-				"TEXT2": "Legal services",
-				"TEXT3": "Negotiating with States, creating international groups to agree on the rules and regulations by which States could join the platform",
-				"TEXT4": "Payments to investors who financed eGaaS before the ICO",
-				"TEXT5": "Other"
+		"BENEFITS": {
+			"TITLE": "Platform Advantages",
+			"TEXT": "for which it is worth using Apla as a tool for building e-Government",
+			"LIST": {
+				"1": "<strong>Low Costs</strong>for deploying the platform's blockbuster and fast application development.",
+				"2": "<strong>full control</strong>over data access rights",
+				"3": "<strong>Flexible management</strong>parameters of ecosystems and platforms using smart laws.",
+				"4": "<strong>common digital environment</strong>the possibility of using the platform Apla eGaas as a single digital environment for the implementation of activities in any areas (financial, business, social)"
 			}
-		},
-		"PROTOTYPES": {
-			"HEAD": "Prototypes"
 		}
 	},
-	"DOCS": {
-		"MANIFESTO": {
-			"TEXT": "eGaaS Manifest",
-			"FILE": "./docs/eGaaS_Manifest.pdf"
+	"BUSINESS": {
+		"SHOWREEL": {
+			"TITLE": "Apla for <strong>Business</strong>",
+			"SLOGAN": "private blockchain platform",
+			"TEXT": "for the creation of digital ecosystems for the organization of financial, commercial and other economic activities"
 		},
-		"WHITEPAPER": {
-			"TEXT": "eGaaS White Paper",
-			"FILE": "./docs/eGaaS_White_Paper.pdf"
+		"ABOUT": {
+			"TITLE": "Apla for business",
+			"HEAD": "ECOSYSTEMS",
+			"TEXT": {
+				"1": "On a private platform, many ecosystems can be deployed, interacting with each other through a single block.",
+				"2": "These are autonomous digital environments in which the initial implementation"
+			},
+			"LIST": {
+				"1": "Data storage with the ultimate protection of their unauthorized modification",
+				"2": "Multi-level structure for managing access rights to data and applications based on roles",
+				"3": "Smart contracts-software modules that perform operations with data with preservation of their reliability",
+				"4": "Smart-laws-software modules that set conditions and restrictions on the implementation of smart contracts"
+			}
+		},
+		"FUNCTIONAL": {
+			"TITLE": "The need for a platform",
+			"TEXT": "The Apla for Business platform is primarily necessary for the organization of economic activity, in which a large number of counterparties need to have a permanent and reliable access to a single stream of events, and event data must be extremely protected from tampering.",
+			"HEAD": "These are such businesses as:",
+			"LIST": {
+				"1": "Supply Chain Management System",
+				"2": "Collective use of resources",
+				"3": "Smart home and smart things (Internet things)",
+				"4": "Stock Exchanges and KraudFanding",
+				"5": "service of signing and changing contracts",
+				"6": "order automation service",
+				"7": "Direct sales",
+				"8": "Bonus Systems"
+			}
+		},
+		"BENEFITS": {
+			"TITLE": "Platform Advantages",
+			"TEXT": "for which it is worth using Apla for Business as a tool for creating business ecosystems",
+			"LIST": {
+				"1": "<strong>Low Costs</strong>on deployment of the platform block and the speed of application development.",
+				"2": "<strong>full control</strong>over data access rights based on roles",
+				"3": "<strong>Flexible management</strong>parameters of ecosystems and platforms using smart laws."
+			}
 		}
 	}
 }
