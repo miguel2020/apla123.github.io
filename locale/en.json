@@ -259,10 +259,10 @@
 		},
 		"ECOSYSTEM": {
 			"TITLE": "Apla ecosystem",
-			"TEXT": "Any owner of an Apla account can create his or her own ecosystem in one click. An ecosystem is a software environment for writing and running blockchain applications. Access to applications and right to participate in ecosystem management are owned by its members – Apla users invited by the ecosystem creator.",
+			"TEXT": "Any Apla account owner can create customized blockchain ecosystem in one click. Apla ecosystem is software environment for running blockchain applications. Access to applications and right to participate in ecosystem management are owned by its members – Apla users invited by the ecosystem creator.",
 			"NAME": "ecosystem",
 			"CREATE": "create in one click",
-			"BOX": "In the ecosystem, applications are available out-of-the-box",
+			"BOX": "Ecosystem contains set of blockchain applications",
 			"LIST": {
 				"1": "Financial system with configuration of emission parameters",
 				"2": "System for managing ecosystem members and roles",
